@@ -13,8 +13,8 @@ import progressbar
 
 #instance variables
 currentSkills = []
-gmail_user = 'giahbots@gmail.com'
-gmail_password = 'hackmeplease123'
+gmail_user = 'apple@gmail.com'
+gmail_password = 'password123'
 
 #stylistic methods
 #print an app banner
