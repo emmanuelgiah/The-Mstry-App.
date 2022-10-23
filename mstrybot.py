@@ -31,7 +31,7 @@ def loadSkills():
 #email reminder of progress
 def sendEmail(message):
 	sent_from = gmail_user
-	to = 'egiah769@gmail.com'
+	to = 'google@gmail.com'
 
 	try:
 	    smtp_server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
