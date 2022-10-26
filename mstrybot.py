@@ -4,7 +4,7 @@ from Skill import Skill
 import shelve
 import smtplib
 
-gmail_user = 'apple@gmail.com'
+gmail_user = 'google@gmail.com'
 gmail_password = 'password123'
 
 #get the current skills and time invested
